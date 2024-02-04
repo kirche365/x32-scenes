@@ -1,0 +1,51 @@
+#4.0#
+show "Trostberg" 0 0 0 0 0 0 0 0 0 0 "4.06"
+scene/000 "Basis" "Anton 21.12.22" %000000000 1
+scene/001 "Sonntag" "Anton 04.02.2024" %000000000 1
+scene/002 "Jugend" "Anton 03.06.2022" %000000000 1
+scene/003 "Powerdays" "Anton 07.01.2023" %000000000 1
+scene/004 "Powerdays 2024" "" %000000000 1
+scene/005 "PowerNight" "25.07.22" %000000000 1
+scene/006 "JuGo EL" "" %000000000 1
+scene/007 "JuGo DGI" "" %000000000 1
+scene/008 "Sonntag" "05.06.2022" %000000000 1
+scene/009 "SUNDAY" "" %111111110 1
+scene/010 "Sonntag" "17.01.2021" %111111110 1
+scene/011 "Jugend" "" %000000000 1
+scene/012 "Sonntag Test" "" %000000000 1
+scene/013 "Vor-JuGooooooooo" "" %000000000 1
+scene/014 "JuGo            " "" %000000000 1
+scene/015 "Podest-Umbau" "von Anton 21.11.20" %111111110 1
+scene/016 "Podest-Umbau 1.0" "5.12" %111111110 1
+scene/017 "Podest-Umbau 2.0" "20.12.2020" %111111110 1
+scene/018 "drum" "" %000000000 1
+scene/020 "15M" "Anton 18.05.2023" %000000000 1
+scene/021 "Sonntag_Niklas" "Anton 29.10.2023" %000000000 1
+scene/024 "Sonntag" "von Anton 18.10.20" %000000000 1
+scene/025 "Sonntag" "von Anton 27.10.20 (clean)" %000000000 1
+scene/026 "Podest-Umbau" "von Anton 21.11.20" %000000000 1
+scene/027 "Worship Night" "14.04.2021" %000000000 1
+scene/028 "Sonntag" "7.5.21" %000000000 1
+scene/029 "Sonntag" "1.7.21" %000000000 1
+scene/030 "Sonntag" "10.10.2021" %000000000 1
+scene/031 "Sonntag" "17.01.22 (mit Mon Stage)" %000000000 1
+scene/032 "Worship Night" "Ohne Lautspr. R aussen" %000000000 1
+scene/034 "Jugend" "15.6.21" %000000000 1
+scene/035 "Jugend" "17.12.21" %000000000 1
+scene/040 "Sonntag  TRAINB" "" %111111110 1
+scene/042 "Anton Test" "Ardour Session" %000000000 1
+scene/043 "Connect Group" "28.09.2021" %000000000 1
+scene/045 "ClickTrack" "6.3.22" %000000000 1
+scene/050 "Neu abgemischt" "19.02.2021" %111111110 1
+scene/051 "Sonntag Firmware" "02.05.21" %111111110 1
+scene/052 "Sonntag" "13.06.2021" %111111110 1
+scene/060 "Powernight" "16.11.2021" %000000000 1
+scene/061 "Powerdays 2022" "Band mit 4 Stimmen" %000000000 1
+scene/080 "Recording" "8.3.22" %000000000 1
+scene/081 "Rec Mixing" "" %000000000 1
+scene/082 "Recording 2" "Oktober 2022" %000000000 1
+scene/099 "Sonntag E" "" %111111110 1
+snippet/000 "Irmi Headset" 7 32768 0 0 1
+snippet/009 "Recording" 512 -1 65535 0 1
+snippet/010 "EQ Vocals" 4 512 0 0 1
+snippet/012 "JayZ Bass" 4 8 0 0 1

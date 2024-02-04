@@ -1,0 +1,10 @@
+#4.0# "Irmi Headset" 7 32768 0 0 1                                                                                             
+/headamp/047 +10.5 OFF
+/ch/16/preamp +0.0 OFF ON 24  64
+/ch/16/delay OFF   0.3
+/ch/16/config "Headset" 53 MG 16
+/ch/16/eq ON
+/ch/16/eq/1 PEQ 216.8 +1.25 0.9
+/ch/16/eq/2 PEQ 632.5 -9.00 2.6
+/ch/16/eq/3 PEQ 3k43 -1.50 2.0
+/ch/16/eq/4 HShv 11k50 -5.50 2.0
